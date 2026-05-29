@@ -28,13 +28,13 @@ Current Goal: Becoming a strong Software Engineer
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/akhill-rawatt" target="blank">
+<a href="https://linkedin.com/in/karann-negii" target="blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
 </a>
-<a href="mailto:akhilrwt2004@gmail.com">
+<a href="mailto:karannegi.ksn07@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40" />
 </a>
-<a href="https://instagram.com/akhill-rawatt" target="blank">
+<a href="https://instagram.com/karannegi.__/" target="blank">
 <img src="https://skillicons.dev/icons?i=instagram" height="40" />
 </a>
 </p>
@@ -75,23 +75,23 @@ Current Goal: Becoming a strong Software Engineer
 ### 🔹 AI Powered Lost & Found Portal
 > Smart item matching system using AI and image processing.
 
-### 🔹 AI Text Summarizer
-> NLP-based summarization platform with OCR and speech support.
+### 🔹 Packet Tracer 
+> Developed a network packet analysis tool to capture and inspect real-time network traffic.
 
-### 🔹 IoT Crop Monitoring System
-> Smart agriculture solution with real-time monitoring.
+### 🔹 Route Optimization System
+> Implemented route optimization logic to compute shortest or most efficient paths between locations.
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akhilcrab&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akhilcrab&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=karannegi-ksn07&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karannegi-ksn07&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Akhilcrab&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=karannegi-ksn07&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -107,5 +107,5 @@ Current Goal: Becoming a strong Software Engineer
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Akhilcrab&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=karannegi-ksn07&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
