@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akhil Rawat</h1>
+<h1 align="center">Hi 👋, I'm Karan Singh Negi</h1>
 <h3 align="center">Full Stack Developer • AI Enthusiast • Problem Solver</h3>
 
 <p align="center">
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 ```yaml
-Name: Akhil Rawat
+Name: Karan Singh Negi 
 Role: Computer Science Engineering Student
 Location: India
 Focus: Full Stack Development + AI Integration
